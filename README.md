@@ -3,7 +3,7 @@
 <div align="center">  
 
 # Daniel Garcia Domingues 
-<p>Apaixonado por programação e resolução de problemas, buscando sempre aprender e aprimorar suas habilidades como desenvolvedor.</p>
+<p>Apaixonado por programação e resolução de problemas, buscando sempre aprender e aprimorar minhas habilidades como desenvolvedor.</p>
 
 <div>
   <img width="49%" height="195px" src="https://github-readme-stats.vercel.app/api?username=DanielGarciaDomingues&show_icons=true&count_private=true&hide_border=true&title_color=a72836&icon_color=a72836&text_color=c9d1d9&bg_color=0d1117" alt="Daniel Garcia github stats" /> 
@@ -21,17 +21,22 @@
 <div align="center"> 
 <a href="https://linktr.ee/danieldev" target="_blank"><img src="https://img.shields.io/badge/linktree-1de9b6?style=for-the-badge&logo=linktree&logoColor=white"</a>
 </div>
-
-### Main skills:
-![JavaScript](https://img.shields.io/badge/-JavaScript-0D1117?style=for-the-badge&logo=javascript&labelColor=0D1117)&nbsp;
-![CSS](https://img.shields.io/badge/-CSS-0D1117?style=for-the-badge&logo=CSS3&logoColor=1572B6&labelColor=0D1117)&nbsp;
-![HTML5](https://img.shields.io/badge/-HTML5-0D1117?style=for-the-badge&logo=HTML5&labelColor=0D1117)&nbsp;
+  
 
 
-### Studying in this moment:
-![React.js](https://img.shields.io/badge/-React.js-0D1117?style=for-the-badge&logo=react&labelColor=0D1117)&nbsp;
-![Typescript](https://img.shields.io/badge/-JavaScript-0D1117?style=for-the-badge&logo=javascript&labelColor=0D1117&textColor=0D1117)&nbsp;
-![Next.JS](https://img.shields.io/badge/-Next.JS-0D1117?style=for-the-badge&logo=Next.js&labelColor=0D1117&textColor=0D1117)&nbsp;
+  <div align="left">
+  <h2>Main skills: </h2>  
+  <img src="https://img.shields.io/badge/-JavaScript-0D1117?style=for-the-badge&logo=javascript&labelColor=0D1117" alt="JavaScript">
+  <img src="https://img.shields.io/badge/-CSS-0D1117?style=for-the-badge&logo=CSS3&logoColor=1572B6&labelColor=0D1117" alt="CSS">
+  <img src="https://img.shields.io/badge/-HTML5-0D1117?style=for-the-badge&logo=HTML5&labelColor=0D1117" alt="HTML5">
+  </div>
+
+<div align="left">
+<h2>Studying in this moment:</h2>
+<img src="https://img.shields.io/badge/-React.js-0D1117?style=for-the-badge&logo=react&labelColor=0D1117" alt="React.js">
+<img src="https://img.shields.io/badge/-JavaScript-0D1117?style=for-the-badge&logo=javascript&labelColor=0D1117&textColor=0D1117" alt="Typescript">
+<img src="https://img.shields.io/badge/-Next.JS-0D1117?style=for-the-badge&logo=Next.js&labelColor=0D1117&textColor=0D1117" alt="Next.js">
+</div>
 
 <div align="center">
 <br><p align="centre"><b>Visitors Count</b></p>  
